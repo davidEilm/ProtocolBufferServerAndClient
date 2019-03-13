@@ -1,0 +1,19 @@
+Installation
+    C# -> NuGet Package Manager Google.Protobuf installieren
+    
+    GO -> go get -u github.com/golang/protobuf/protoc-gen-go
+
+Wie wird ein .proto file "konvertiert/kompiliert(?)"?
+    protoc --go_out=. Person.proto
+    
+Vergleich mit JSON und XML
+
+Wird bei RPC oft verwendet (inkl. gRPC)
+
+
+
+
+
+Server starten: go run ProtoServer.go Person.pb.go
+
+.dll ausführen: dotnet ProtoCSharpClient.dll

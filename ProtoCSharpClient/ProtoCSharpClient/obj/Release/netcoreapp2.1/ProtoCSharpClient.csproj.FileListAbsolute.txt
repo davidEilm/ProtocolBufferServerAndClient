@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\bin\Release\netcoreapp2.1\ProtoCSharpClient.deps.json
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\bin\Release\netcoreapp2.1\ProtoCSharpClient.runtimeconfig.json
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\bin\Release\netcoreapp2.1\ProtoCSharpClient.runtimeconfig.dev.json
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\bin\Release\netcoreapp2.1\ProtoCSharpClient.dll
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\bin\Release\netcoreapp2.1\ProtoCSharpClient.pdb
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.AssemblyInfo.cs
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.dll
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.pdb
+C:\Users\david\Desktop\Ordner\Neben\__Schule\5.Jahrgang\Progr_Lackinger\Referat\ProtoCSharpClient\ProtoCSharpClient\obj\Release\netcoreapp2.1\ProtoCSharpClient.csprojAssemblyReference.cache

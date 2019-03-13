@@ -1,0 +1,22 @@
+﻿syntax = "proto3";
+
+package main;
+
+message Person {
+  int32 id = 1;
+  string firstname = 2;
+  string lastname = 3;
+  string email = 4;
+  string city = 5;
+  string iban = 6;
+  string time = 7;
+  string title = 8;
+  string shirtsize = 9;
+  int32 postalCode = 10;
+  string macAdress = 11;
+  float latitude = 12;
+  string jobTitle = 13;
+  string currency = 14;
+  string country = 15;
+  string countryCode = 16;
+}
